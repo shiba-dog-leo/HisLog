@@ -129,5 +129,12 @@ dmypy.json
 .pyre/
 
 
+#vscode setting file
+.vscode
+
 # MathJax :HTML server
 MathJax
+
+# job log
+log.md
+
